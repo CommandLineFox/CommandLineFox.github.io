@@ -1,0 +1,47 @@
+.backgroundDarkBlue {
+    background-color: #046C8E;
+}
+
+.backgroundBlue {
+    background-color: #00B1D6;
+}
+
+.backgroundDarkGreen {
+    background-color: #65913E;
+}
+
+.backgroundGreen {
+    background-color: #7AB742;
+}
+
+.navTitle {
+    margin-left: 16px;
+    font-size: 48px;
+}
+
+.navItem {
+    margin-left: 16px;
+    width: 160px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.textActive {
+    color: #7AB742;
+}
+
+.textTitle {
+    font-size: 32px;
+}
+
+.textRegular {
+    font-size: 24px;
+}
+
+.textMedium {
+    font-size: 28px;
+}
+
+.btn-primary {
+    background-color: #00B1D6;
+}
